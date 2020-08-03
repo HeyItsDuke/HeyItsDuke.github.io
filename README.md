@@ -1,2 +1,2 @@
 # HeyItsDuke.github.io
-Persona site hosted on GitHub Pages.
+Personal site hosted on GitHub Pages.
